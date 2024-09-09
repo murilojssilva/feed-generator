@@ -5,7 +5,7 @@ import {
 } from '../lexicon/types/app/bsky/feed/getFeedSkeleton'
 import axios from 'axios'
 
-export const shortname = 'offerFeed'
+export const shortname = 'Lista de ofertas'
 
 const keywords = [
   'oferta mercado livre',
